@@ -2,6 +2,26 @@
 
 This is a full-stack application consisting of a frontend (client) and backend (server).
 
+## Built With
+
+The following tools were used in the building of the application:
+
+### Client
+
+- [React](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/) 
+- [Redux Saga](https://redux-saga.js.org/) 
+- [Styled Components](https://styled-components.com/) 
+- [TypeScript](https://www.typescriptlang.org/) 
+
+### Server
+
+- [Node.js](https://nodejs.org/en/) 
+- [Express](https://expressjs.com/) 
+- [Nodemon](https://nodemon.io/)
+- [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+
+
 ## Getting Started
 
 These instructions will get your copy of the project up and running on your local machine.
